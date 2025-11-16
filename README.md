@@ -26,5 +26,6 @@ Tailwind CLI
 02: @import "tailwindcss"; (In css file Ex:(style.css))
 03: npx @tailwindcss/cli -i ./style.css -o ./output.css --watch (TERMINAL)
 04: <link href="./output.css" rel="stylesheet"> (In html file Ex:(index.html))
+05: Download Extension [Tailwind_Css]
 
 ----------------------------------------------------------------------------------------------
